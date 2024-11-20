@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import "./Pages.scss";
+import "./pages.scss";
 
 function Pages() {
   const [page, setPage] = useState(1);
