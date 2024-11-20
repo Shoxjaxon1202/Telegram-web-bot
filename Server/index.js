@@ -27,7 +27,7 @@ const bootstrap = () => {
                 {
                   text: "Ustozlar hisoboti",
                   web_app: {
-                    url: "https://sammi.ac", // Bu URL dinamik ravishda o'zgarishi mumkin
+                    url: "https://telegram-web-bot-rt3k.vercel.app/",
                   },
                 },
               ],
