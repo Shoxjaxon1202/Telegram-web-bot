@@ -92,7 +92,7 @@ function Pages() {
   return (
     <div className="form-container" onKeyDown={handleKeyPress} tabIndex="0">
       <PageIndicator currentPage={page} />
-
+      <h1>Kunlik Report</h1>
       {page === 1 && (
         <div className="form-page">
           <label>
